@@ -17,7 +17,7 @@ html_template = """
         <div id="courses">
             <div class="course">
                 <input type="number" name="credits[]" step="any" required placeholder="Credits" min="0">
-                <input type="number" name="grade_points[]" step="any" required placeholder="Grade Points" min="0" max="4">
+                <input type="number" name="grade_points[]" step="any" required placeholder="Grade Points" min="0" max="10">
                 <br><br>
             </div>
         </div>
