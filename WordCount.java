@@ -63,5 +63,5 @@ public class WordCount {
 /*
 https://learnsqlwithsagar.blogspot.com/2024/03/hadoop-installation.html
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazByVmZjcW5VenExb0JZdmllZWlNdnliMVdOUXxBQ3Jtc0ttdVpzTENNTkxKcGRSUEg5NGxQYnE4MXlPUDJQZ0Rib2ZpSk1wdE50YUJseFh2cDhwdXE5Z0NLWEUzSTVxc0czcm1zN09wSzlpSXBzOHJPRG1pODhiX0JsN2E0UnpnOHZ5cTNrQlUwWFdYQ0VPZmwyQQ&q=https%3A%2F%2Fgithub.com%2Fsyncbricks%2FHomeLab%2Ftree%2Fmain%2FOpenNebula&v=gxUAFAgCfBs
-
+https://github.com/syncbricks/HomeLab/tree/main/OpenNebula
 */
